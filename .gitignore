@@ -25,5 +25,7 @@ hs_err_pid*
 # Forge changelog
 changelog.txt
 
-
+# Ignore project folders
+.gradle
+.idea
 
