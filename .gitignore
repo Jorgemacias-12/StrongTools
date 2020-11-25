@@ -31,7 +31,6 @@ changelog.txt
 
 #Ignore build and run folders
 build/
-gradle/
 run/
 
 #Ignore .txt files
