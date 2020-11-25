@@ -29,3 +29,6 @@ changelog.txt
 .gradle
 .idea
 
+#Ignore build and run folders
+build/
+gradle/
